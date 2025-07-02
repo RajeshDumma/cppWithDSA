@@ -4,7 +4,10 @@ using namespace std;
 
 int main(){
 
-    cout<<"Hii Everyone , Welcome to my World"<<endl;
+    //namespace is int std files (using namespace and std::) // both same
+   cout<<"Hii Everyone , Welcome to my World"<<endl;
+   std::cout<<"THis is Rajesh"<<endl;
+   std:: cout<<"welcome to DSA course"<<endl;
 
     return 0;
 }
