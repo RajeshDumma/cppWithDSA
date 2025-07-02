@@ -1,3 +1,3 @@
 # cppWithDSA
-<hr>
+<br>
 Author-Rajesh
