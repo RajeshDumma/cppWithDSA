@@ -14,6 +14,7 @@ ch = 'D';
 score = score + 100;
 
 
+
 cout<<score << "\n" <<value <<"\n"<<"char : "<< ch<< "\n"<< digit<<endl;
 
   // Print types of variables
