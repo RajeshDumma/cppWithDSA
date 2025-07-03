@@ -17,5 +17,11 @@ b = 90;
 int c = a + b;
 
 cout<<"updated value : "<< c <<endl;
+
+    // multiple of digits
+
+    int mul = a * b;
+    cout<<"Mul :"<<mul<<endl;
     return 0;
 }
+
