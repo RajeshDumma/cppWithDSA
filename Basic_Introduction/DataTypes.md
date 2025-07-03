@@ -20,3 +20,17 @@ Data types :-  Data can be stored in different types.
     6)Long long integer (long long int): long integer , 8 bytes
     7) Double (double) : (Large floating point number) large decimal point , 8 bytes
     8) void or valueless (void)
+
+
+
+    Variable :
+
+    Named storage memory location,
+    uesd to stored data access data sometime in future.
+
+
+    Variables :
+    1) creating a variable (declaring a variable).
+    2) Assigning a value to the variable (Initialization / definition)
+
+    syntax = datatype nameOfVariable;
