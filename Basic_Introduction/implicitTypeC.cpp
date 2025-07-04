@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// implicit type conversition 
+// implicit type conversions
 int main(){
 
     // example -1
@@ -21,6 +21,6 @@ int main(){
     char ct = num;
     cout <<"convert int to char : "<< ct <<endl;
 
-    // this implicit type conversition has chances  to loose the data
+    // this implicit type conversion has chances  to loose the data
     return 0;
 }

@@ -21,8 +21,6 @@ Data types :-  Data can be stored in different types.
     7) Double (double) : (Large floating point number) large decimal point , 8 bytes
     8) void or valueless (void)
 
-
-
     Variable :
 
     Named storage memory location,
@@ -45,3 +43,18 @@ Data types :-  Data can be stored in different types.
     type conversition :-
     1) Implicit
     2) explicit
+
+    uses:
+    1) Type Safty
+    2)Better performance
+
+    cons:
+    1) increase in  code complexity
+    2) loos of presision
+    3)maybe poor performance
+    4) Can causes overfloe or underflow
+
+    Macros:
+macro is piece of code which can be assigned a value and this value can be used anywhere in the code , and upon the macro original code piece / snippet will be used.
+
+    
