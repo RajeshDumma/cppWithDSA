@@ -57,4 +57,24 @@ Data types :-  Data can be stored in different types.
     Macros:
 macro is piece of code which can be assigned a value and this value can be used anywhere in the code , and upon the macro original code piece / snippet will be used.
 
+Syntax : #define name code
+ex:- #define printHello cout<<"Hii welcome"<<endl;
+
+2) functional macro
+#define print(x) cout<<x<<endl; 
+it can work like , f(x) = x + x or x * x
+ex:- #define print(z) cout<< z <<endl;
+print("Welcome Programing world")
+
+Type Range macros:
+these ranges are included in limits.h.
+we can include, #include<limits.h>
+For float is included in , #included <float.h>.
+
+but we have one option ti include all file in one file that is "bits/stdc++.h" file
+#include <bits/stdc++.h>
+
+
+
+
     
