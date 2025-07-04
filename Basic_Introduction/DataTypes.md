@@ -34,3 +34,14 @@ Data types :-  Data can be stored in different types.
     2) Assigning a value to the variable (Initialization / definition)
 
     syntax = datatype nameOfVariable;
+
+
+    Variables are case sensetive for example (a,A , score , Score , scOre, overs , OveRs)
+
+    type Safety :
+
+    statically typed
+
+    type conversition :-
+    1) Implicit
+    2) explicit
