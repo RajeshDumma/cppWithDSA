@@ -45,3 +45,14 @@ Data types :-  Data can be stored in different types.
     type conversition :-
     1) Implicit
     2) explicit
+
+    uses:
+    1) Type Safty
+    2)Better performance
+
+    cons:
+    1) increase in  code complexity
+    2) loos of presision
+    3)maybe poor performance
+    4) Can causes overfloe or underflow
+    
