@@ -18,11 +18,9 @@ int main(){
     div = a / b;   // Integer division
     mod = a % b;
 
-    cout << "Add: " << add << endl
-         << "Sub: " << sub << endl
-         << "Mul: " << mul << endl
-         << "Div: " << div << endl
-         << "Mod: " << mod << endl;
+    cout << "Add: " << add << endl << "Sub: " << sub << endl;
+    cout << "Mul: " << mul << endl << "Div: " << div << endl;
+    cout << "Mod: " << mod << endl;
 
     return 0;
 }
