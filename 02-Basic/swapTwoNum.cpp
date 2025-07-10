@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+
+// swap two numbers without using third variable.
 int main(){
 
     int a , b ;
