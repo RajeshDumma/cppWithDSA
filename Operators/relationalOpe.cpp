@@ -9,11 +9,11 @@ int main(){
      cin>> a;
      cout<<"Enter the b value: "<<endl;
      cin>> b;
-     cout<<(a == b)<<endl; // 0
-     cout<<(a != b)<<endl; // 1
-     cout<<(a > b)<<endl; // 0
-     cout<<(a < b)<<endl; // 1
-     cout<<(a >= b)<<endl; // 0
-     cout<<(a <= b)<<endl; // 1
+     cout<<"Is A equal to B? "<<(a == b)<<endl; // 0
+     cout<<"Is A not equal to B? "<<(a != b)<<endl; // 1
+     cout<<"Is A greater then B? "<<(a > b)<<endl; // 0
+     cout<<"Is A less then B? "<<(a < b)<<endl; // 1
+     cout<<"Is A greater then or equal to B? "<<(a >= b)<<endl; // 0
+     cout<<"Is A less then or equal to B? "<<(a <= b)<<endl; // 1
    return 0;
 }
