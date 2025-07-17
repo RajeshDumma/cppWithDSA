@@ -30,3 +30,11 @@ Bitwize Operators
 5) << Left shift
 =======
 >>>>>>> 2cf075d368499396a410476bbce679810ae1fe7c
+
+Assignment operator
+
+1) = 
+2) +=
+3) -=
+4) /=
+5) %=
