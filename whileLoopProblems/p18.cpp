@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int amin(){
+int main(){
      int n;
      cin >> n;
      bool prime = true;
@@ -12,7 +12,7 @@ int amin(){
      } else{
         int i = 2;
         while(i * i <= n){
-            if(i%n == 0){
+            if(n%i == 0){
                 prime = false;
                 break;
             }

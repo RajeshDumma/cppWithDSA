@@ -13,9 +13,9 @@ int main(){
     n /=10;
    }
    if(orginal == reversed){
-          cout<<"Yes"<<endl;  
+          cout<<"palindrome"<<endl;  
          }else{
-            cout<<"NO"<<endl;
+            cout<<"Not palindrome"<<endl;
          }
 
     return 0;
