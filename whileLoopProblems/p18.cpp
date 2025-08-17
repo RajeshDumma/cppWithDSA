@@ -19,6 +19,6 @@ int main(){
             i++;
         }
      }
-     cout<<(prime ? "YES" : "NO")<<endl;
+     cout<<(prime ? "prime" : "Not prime")<<endl;
     return 0;
 }
