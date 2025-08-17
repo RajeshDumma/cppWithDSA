@@ -5,15 +5,13 @@ using namespace std;
 
 int main(){
    
-    int largestValue = 0;
-    while(true){
-        int n;
+    int n;
+    cin>>n;
+    int largestValue = n;
+    while(n != 0){
         cin>>n;
-        if(n != 0){
-            if(largestValue < n)
+        if(n != 0 && lagerstValue < n){
                 largestValue = n; 
-        } else{
-            break;
         }
     }
      cout<< largestValue <<endl;

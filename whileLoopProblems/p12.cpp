@@ -1,0 +1,1 @@
+// https://snakify.org/en/lessons/while_loop/problems/seq_second_max/

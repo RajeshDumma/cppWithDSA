@@ -4,20 +4,19 @@
 using namespace std;
 
 int main(){
-   int indexValue = 1;
-   int largestValue = 0;
-   while(true){
-    int n;
-    cin>> n;
-     if(n != 0){
-        if(largestValue < n){
-            largestValue = n;
-            indexValue++;
-        }
-     } else{
-        break;
-     }
+  int n;
+   cin>>n;
+   int max = n;
+   int index = 1;
+   int ans = index;
+   while(n != 0){
+    cin>>n;
+    index++;
+    if(max < n){
+        max = n;
+        ans = index;
+    }
    }
-   cout<< indexValue-1 <<endl;
+   cout<<ans <<endl;
     return 0;
 }
