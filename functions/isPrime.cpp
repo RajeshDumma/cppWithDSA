@@ -24,8 +24,8 @@ void isPrime(int x){
 }
 
 int main() {
-    int n;
-    cin>> n;
+    int n =10;
+  //  cin>> n;
 	isPrime(n);
 
 }
