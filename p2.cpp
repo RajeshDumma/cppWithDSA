@@ -90,9 +90,10 @@ using namespace std;
 
 int main() {
 	string str = "elephant";
-  cout <<	(str.isEmpty() ? "yes" : "No" ) << endl;
+  cout <<	(str.empty() ? "yes , empty" : "No, not empty" ) << endl;
 //	cout<<  str <<endl;
 }
+
 
 // Take input from the user and print the string in reverse order (without using algorithm library).
 
@@ -102,8 +103,10 @@ using namespace std;
 
 int main() {
 	string str = "library";
+	string reverseStr = "";
 	
 	for(int i = 0; i < str.length(); i++){
-	    
+	    reverseStr = str[i] + reverseStr;
 	}
+	cout<< reverseStr <<endl;
 }

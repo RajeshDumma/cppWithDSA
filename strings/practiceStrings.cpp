@@ -13,7 +13,7 @@ int main(){
     cout << str2 <<endl;
 
     // string can declaration 
-   // char[] stri = "system language";
+   // char str [] = "system language";
    // string strg = "programming language";
  //   string stgn("cpp language");
 }
